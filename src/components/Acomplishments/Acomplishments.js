@@ -5,7 +5,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 2, text: 'Arctic code vault Contributer'},
-  { number: 5, text: 'Open source projects on ReactJs', },
+  { number: 3, text: 'Open source projects on ReactJs', },
+  { number: 6, text: 'Open source projects on ML Ops', },
 ];
 
 const Acomplishments = () => (

@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href='tel:7310045485'>7310045485</LinkItem>
+          <LinkItem href='tel:+917310045485'>+917310045485</LinkItem>
         </LinkColumn>
 
         <LinkColumn>
@@ -20,7 +20,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>The best way to prepare is to write programs and to study great programs that other people have written.</Slogan>
+          <Slogan>Building more than just code.</Slogan>
         </CompanyContainer>
 
         <SocialIcons href='https://github.com/Aneeq2211'>

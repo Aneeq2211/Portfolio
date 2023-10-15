@@ -46,8 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hi, I'm <Span>Aneeq Ul Waseeq</Span> a Front-End Developer at <Span>TCS,Bangalore.</Span> 
-        I've been building websites and banking web application for past 2 years and also have a good experience as a Front-End as well as Python developer.<br/><br/> 
+        Hi, I'm <Span>Aneeq Ul Waseeq</Span> inventive Front-End Developer with 2+ years of comprehensive expertise
+         in Java logic building & microservices, JavaScript,ReactJs, Springboot, SQL, Python areas with the willingness to learn 
+         and master Front-end Development. Also worked as a freelance Machine Learning Engineer on UpWork.<br/><br/> 
         You can <Span>Contact</Span> me on -<br/> 
         <Span>Email:</Span>aneequlwaseeq@gmail.com <br/>
       </SectionText>
