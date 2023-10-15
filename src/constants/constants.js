@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/Memories.png',
       tags: ['MERN Stack', 'Redux', 'Google Auth',],
     source: 'https://memories-aps.netlify.app/',
-    visit: 'https://github.com/ayush200998/MemoriesApp',
+    visit: 'https://github.com/Aneeq2211/MemoriesApp',
     id: 7,
   },
   {
